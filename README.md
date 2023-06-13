@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/dxmolnar/credit_risk_resampling/assets/127795314/334adf8c-657c-4fcd-8024-8dc8ce7c3852)
+
 
 # credit_risk_resampling
 This repo is about credit risk assessment using machine learning
