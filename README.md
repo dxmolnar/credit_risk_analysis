@@ -18,16 +18,16 @@ The machine learning process involved several stages, including data preprocessi
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
-* Machine Learning Model 1:
-  Accuracy: 99.2%
-  Precision: 86% (high risk loans); 100% (low risk loans)
-  Recall: 91% (high risk loans); 100% (low risk loans)
+Machine Learning Model 1:
+  * Accuracy: 99.2%
+  * Precision: 86% (high risk loans); 100% (low risk loans)
+  * Recall: 91% (high risk loans); 100% (low risk loans)
 
 
-* Machine Learning Model 2:
-Accuracy: 99.4%
-  Precision: 85% (high risk loans); 100% (low risk loans)
-  Recall: 99% (high risk loans); 99% (low risk loans)
+Machine Learning Model 2:
+  * Accuracy: 99.4%
+  * Precision: 85% (high risk loans); 100% (low risk loans)
+  * Recall: 99% (high risk loans); 99% (low risk loans)
 
 ## Summary
 
